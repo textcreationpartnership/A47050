@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand case of subjection to the higher powers in matters of religion resolved to which is added an appendix to a late book intituled A plea for liberty of conscience, wherein the kings supream power in ecclesiastical matters is asserted ... / by James Jones, a Protestant-dissenter, and now a prisoner in Woodstreet-compter for nonconformity.</title>
+            <author>Jones, James, fl. 1683-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47050</idno>
+            <idno type="STC">Wing J956A</idno>
+            <idno type="STC">ESTC R36209</idno>
+            <idno type="EEBO-CITATION">15618756</idno>
+            <idno type="OCLC">ocm 15618756</idno>
+            <idno type="VID">104180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand case of subjection to the higher powers in matters of religion resolved to which is added an appendix to a late book intituled A plea for liberty of conscience, wherein the kings supream power in ecclesiastical matters is asserted ... / by James Jones, a Protestant-dissenter, and now a prisoner in Woodstreet-compter for nonconformity.</title>
+                  <author>Jones, James, fl. 1683-1684.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104180:1"/>
+            <p>The Grand CASE OF SUBJECTION TO THE <hi>Higher Powers,</hi> IN MATTERS of RELIGION, RESOLVED.</p>
+            <p>To which is Added, An APPENDIX To a Late Book, Intituled, <hi>A PLEA for LIBERTY of CONSCIENCE:</hi> WHEREIN The Kings Supream Power in Eccleſiaſtical Matters, Is Aſſerted; Humbly Shewing that the Kings Majeſty hath Royal Power Sufficient to Perform his Royal Promiſe, for Liberty of Conſcience.</p>
+            <p>By <hi>JAMES JONES,</hi> a Proteſtant-Diſſenter, and now a Pri<g ref="char:EOLhyphen"/>ſoner in <hi>Woodſtreet-Compter</hi> for Nonconformity.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 105.20.</hi>
+               </bibl>
+               <p>The King ſent and looſed him: Even the Ruler of the People, and let him go free.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ECCLES. 1.9.</hi>
+               </bibl>
+               <p>The thing that hath been, it is that which ſhall be; and that which is done, is that which ſhall be done; and there is no New thing under the Sun.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin,</hi> at the lower End of <hi>Broadstreet,</hi> next to <hi>London-Wall.</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:104180:2"/>
+            <pb n="1" facs="tcp:104180:2" rendition="simple:additions"/>
+            <head>THE Grand Caſe OF SUBJECTION TO <hi>The Higher Powers,</hi> IN MATTERS of RELIGION, Reſolved.</head>
+            <p>FOraſmuch as great Contention hath been, and ſtill is, among Chri<g ref="char:EOLhyphen"/>ſtians, Concerning a Right Subjection to the higher Powers, in Mat<g ref="char:EOLhyphen"/>ters of Religion; All thoſe Princes and States who by the Divine Pro<g ref="char:EOLhyphen"/>vidence, have the Supream Government in their Reſpective Domi<g ref="char:EOLhyphen"/>nions, making ſuch Demands of Subjection from their Subjects, in Matters of Religion, as they cannot conſcientiouſly Conform unto, in which they do not only Plead the Power of their own Laws, but would fain urge ſome<g ref="char:EOLhyphen"/>thing from Divine Authority, that ſo Perſons may yield Obedience unto them in their Eſtabliſhed Worſhip, as a bounden Duty unto God; There<g ref="char:EOLhyphen"/>fore, the following Diſcourſe upon this Subject, is Humbly Offered to the Conſideration of all Rational and Conſcientious Perſons, of whatſoever ſort or degree amongſt Mankind; which ſhall be endeavoured in a Satisfactory Anſwer to the following Queſtions.</p>
+            <div n="1" type="question">
+               <head>Queſt. <hi>I.</hi>
+               </head>
+               <p>Whether all ſorts of Perſons whatſoever, are bound to Conform to what<g ref="char:EOLhyphen"/>ſoever Worſhip is or may be Eſtabliſhed by the higher Powers in their ſeveral Dominions; Becauſe the Holy Apoſtle <hi>Paul</hi> in <hi>Rom. 13.1.</hi> ſaith thus: <hi>Let every Soul be ſubject to the Higher Powers; for, there is no Power but of God; the Powers that be, are Ordained of God?</hi>
+               </p>
+               <div type="answer">
+                  <pb n="2" facs="tcp:104180:3"/>
+                  <head>Anſwer.</head>
+                  <p>To which I Anſwer, <hi>Conformity</hi> to <hi>Every Eſtabliſhed Worſhip,</hi> cannot be the meaning of the Apoſtle in this Text; as ſhall be ſoberly demonſtrated by the Reaſons following:</p>
+                  <p>
+                     <hi>Firſt,</hi> Becauſe then the Chriſtian Religion would utterly ceaſe in all thoſe Countreys in which the contrary Religion is Eſtabliſhed, and that by the Conſent of the Chriſtians themſelves, who in Point of duty, muſt relin<g ref="char:EOLhyphen"/>quiſh the Profeſſion and Practice of the <hi>Chriſtian Religion,</hi> and imbrace a Religion <hi>Contrary to it,</hi> becauſe it is <hi>Required by Authority.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> Becauſe then <hi>Every Sort</hi> of <hi>Eſtabliſhed Worſhip</hi> would be Eſteem<g ref="char:EOLhyphen"/>ed and Accounted the <hi>true Worſhip of God,</hi> how much ſoever ſuch Worſhips may differ from, and be Contradictory to each other, whether it be <hi>Mahome<g ref="char:EOLhyphen"/>tan-Worſhip, Indian-Worſhip, Jewiſh-Worſhip,</hi> or <hi>Popiſh-Worſhip</hi> (as well as <hi>Proteſtant-Worſhip;</hi>) if it have but the Broad Seal of <hi>Humane Authority</hi> af<g ref="char:EOLhyphen"/>fixed unto it.</p>
+                  <p>
+                     <hi>Thirdly,</hi> Becauſe ſuch a ſence of that Scripture Condemns both the Pro<g ref="char:EOLhyphen"/>feſſion, Practice, and Holy Zeal of <hi>Peter</hi> and <hi>John,</hi> who Refuſed to be ſub<g ref="char:EOLhyphen"/>ject to the Authority of the <hi>Jews,</hi> when they Commanded them to preach no more in the Name of Jeſus; for <hi>Peter</hi> and <hi>John</hi> ſaid, <hi>Whether it be Right in the Sight of God to Hearken unto you more then unto God, judge ye; For we cannot but ſpeak the things that we have ſeen and heard.</hi>
+                  </p>
+                  <p>
+                     <hi>Fourthly,</hi> Becauſe this Sence of the fore-mentioned Scripture will Con<g ref="char:EOLhyphen"/>demn the Profeſſion and Practice of <hi>Paul</hi> himſelf; for he was <hi>not a Confor<g ref="char:EOLhyphen"/>miſt</hi> to the <hi>Eſtabliſhed Worſhip</hi> of thoſe times, but was a great Sufferer under thoſe that then were the higher Powers.</p>
+               </div>
+               <div type="objection">
+                  <head>Objection.</head>
+                  <p>But ſome will be ready to ſay, <hi>That this was the Nonconformity of</hi> Chriſti<g ref="char:EOLhyphen"/>ans, <hi>in not Submitting to the</hi> Idolatrous VVorſhip <hi>Eſtabliſhed by</hi> Heathen Powers; <hi>But the preſent Nonconformity is a not Subjecting to Christian Powers.</hi>
+                  </p>
+                  <div type="answer">
+                     <head>To which I Anſwer:</head>
+                     <p>
+                        <hi>Firſt,</hi> Conſider that the words of <hi>Paul</hi> in the forementioned Text did Re<g ref="char:EOLhyphen"/>quire Subjection to thoſe that <hi>then were the higher Powers,</hi> and they were Heathen Powers, maintaining Idolatry, and puniſhing the Profeſſors of Chriſtianity: And therefore, if Subjection to Eſtabliſhed VVorſhip be <hi>at all Required in this Text,</hi> then it may be fairly Argued, that it was Requi<g ref="char:EOLhyphen"/>red unto <hi>thoſe</hi> that <hi>then were the Heathen Powers.</hi>
+                     </p>
+                     <p>But <hi>Secondly,</hi> Conſider that the Primitive Chriſtians did not only Refuſe Conformity in Matters of Religion to <hi>Heatheniſh Powers,</hi> but alſo to the <hi>Higher Powers of the Jews,</hi> who were a People that did Profeſs the Law of <hi>Moſes,</hi> and the Doctrine of the Prophets; but they had mingled their own Inventions and Traditions with Gods Commandments, and were more zea<g ref="char:EOLhyphen"/>lous of their own ways then of Gods ways, as it was Revealed to them by the Prophets, and alſo by Chriſt and the Holy Apoſtles; and therefore the Chriſtians of the Primitive time did Refuſe <hi>to Conform to them</hi> in matters of VVorſhip, and choſe rather to ſuffer under their Authority.</p>
+                     <pb n="3" facs="tcp:104180:3" rendition="simple:additions"/>
+                     <p>
+                        <hi>Thirdly,</hi> Conſider, that ſince thoſe times, the Chriſtians in many Coun<g ref="char:EOLhyphen"/>treys have not Subjected, ſo as to Conform to the Higher Powers in matters of Religion, though Eſtabliſhed by <hi>Chriſtian Powers;</hi> as for inſtance, the Proteſtants in <hi>Italy, Germany, Bohemia, Spain, France;</hi> and in theſe King<g ref="char:EOLhyphen"/>doms of <hi>England Scotland,</hi> and <hi>Ireland,</hi> they did not ſubject ſo as to <hi>Conform to Popery,</hi> when it was <hi>Eſtabliſhed</hi> by <hi>Thoſe</hi> that were in <hi>Authority.</hi>
+                     </p>
+                     <p>
+                        <hi>Fourthly,</hi> Conſider, That to allow of ſuch a Sence of <hi>Pauls</hi> words, <hi>viz. Subjection to the Higher Powers in Conforming to their Eſtabliſhed Worſhip,</hi> is highly to Condemn the generation of the Righteous, <hi>viz.</hi> the Faithful Suf<g ref="char:EOLhyphen"/>fering Servants of Chriſt, who under-went Cruel Deaths for not Subjecting to ſuch matters of Religion as were impoſed upon them; becauſe this would render their Suffering to be rather <hi>Folly</hi> then <hi>Faithfulneſs.</hi>
+                     </p>
+                     <p>And then <hi>Fifthly,</hi> Conſider that ſuch a Senſe of <hi>Pauls</hi> words as aforeſaid, will lead Chriſtians to be of any <hi>Religion</hi> that is or ſhall be <hi>Impoſed upon them, viz.</hi> if Authority ſhould impoſe <hi>Popery,</hi> as in Queen <hi>Maries</hi> days, then they muſt be <hi>Papiſts;</hi> and if Authority ſhould impoſe <hi>Epiſcopal Proteſtancy,</hi> as in Queen <hi>Elizabeth's,</hi> and now in our days, then they muſt turn ſuch Proteſtants; and if Authority ſhould like any of the ways of Worſhip now among the Diſſen<g ref="char:EOLhyphen"/>ters and ſo <hi>Establiſh that,</hi> then the People muſt Conform thereunto; <hi>viz.</hi> If Authority ſhould like <hi>Presbytery</hi> better then <hi>Epiſcopacy,</hi> then the People muſt turn <hi>Presbyterians;</hi> and if Authority ſhould like and Eſtabliſh the way of ſuch as are called <hi>Independants, Anabaptiſts,</hi> or <hi>Quakers,</hi> then the People muſt turn ſuch alſo; and thus Religion would be always a changing, accor<g ref="char:EOLhyphen"/>ding to the differing Minds of ſuch as may be in Authority; and ſo the <hi>Laws of men, inſtead of the Laws of God,</hi> would be the <hi>Rule</hi> for Worſhiping of God; and this is the way to have the <hi>Commandments of men</hi> taught as if they were <hi>Divine Doctrines;</hi> and ſo bring men to Worſhip <hi>God in Vain,</hi> as Chriſt hath ſaid, Mat. 15.9. <hi>But in Vain do they Worſhip me, Teaching for Do<g ref="char:EOLhyphen"/>ctrines the Commandments of Men.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>Queſtion <hi>II.</hi>
+               </head>
+               <p>But must not, or may not the Higher Powers be AT ALL Concern<g ref="char:EOLhyphen"/>ed in Eſtabliſhing Religion in their ſeveral Dominions, for their Subjects to Conform thereunto?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <hi>First,</hi> Such of the Higher Powers as are without the Knowledge and Profeſſion of <hi>Chriſtianity,</hi> are not capable to Eſtabliſh <hi>Religion,</hi> ſo as to a<g ref="char:EOLhyphen"/>gree with the Will and Word of the Holy God; but they will be ready to <hi>Establiſh a Worſhip to a falſe God,</hi> as the poor ignorant <hi>Indians</hi> do; or elſe <hi>Eſtabliſh the Worſhipping of the true God in a falſe manner,</hi> as the <hi>Jews</hi> and <hi>Turks do;</hi> and I hope that none will Plead for the <hi>Conformity</hi> of <hi>Chriſtians</hi> to <hi>ſuch Eſtabliſhed Worſhip.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> Such of the Higher Powers as are <hi>Chriſtians,</hi> yea and ſuch as are <hi>most Right</hi> in the Chriſtian Religion, have not Received <hi>any Authority from Jeſus Christ</hi> to eſtabliſh his <hi>own Worſhip</hi> in their Dominions, ſo as to Exer<g ref="char:EOLhyphen"/>ciſe <hi>Outward Force,</hi> or by Puniſhments to <hi>Compel</hi> their Subjects to come to <hi>Christs Divine Service.</hi>
+                  </p>
+               </div>
+               <div type="objection">
+                  <head>Objection.</head>
+                  <p>But ſome will now be ready to ſay that Christ hath Required the <hi>COMPEL<g ref="char:EOLhyphen"/>LING</hi> of Perſons to be brought to his Goſpel-Feast: <hi>See</hi> Luke <hi>14.23.</hi> And the Lord ſaid unto the Servant, Go out into the High-ways and Hedges, and <hi>COM<g ref="char:EOLhyphen"/>PEL</hi> them to come in, that my Houſe may be filled.</p>
+                  <div type="answer">
+                     <pb n="4" facs="tcp:104180:4"/>
+                     <head>ANSWER.</head>
+                     <p>That we may Rightly underſtand theſe words of Chriſt, we muſt conſider what kind of <hi>Compelling</hi> is intended by Chriſt, whether it be <hi>Magisterial</hi> or <hi>Miniſterial</hi> Compelling.</p>
+                     <p>
+                        <hi>Firſt,</hi> It cannot be Magiſterial, ſo as to <hi>Compel</hi> by <hi>Penal Laws;</hi> Becauſe Jeſus Chriſt had not then given any ſuch Power to the Magiſtrates of that time; for they were <hi>Oppoſers</hi> of Chriſt, his Doctrine, and his Miniſters; and did what they could to Compel the Profeſſors of Chriſt to Conform to them, in <hi>Renouncing Chriſtianity:</hi> Thus ſpeaketh <hi>Paul,</hi> when he acted by their Authority, Act. 26.10, 11. <hi>Which thing I alſo did in</hi> Jeruſalem, <hi>and many of the Saints did I ſhut in Priſon, having Received Authority from the Chief Prieſt; and when they were put to Death, I gave my Voice against them; and I puniſhed them oft in every Synagogue, and</hi> COMPELLED <hi>them to Blaſ<g ref="char:EOLhyphen"/>pheme, and being exceedingly mad againſt them, I Perſecuted them unto ſtrange Cities:</hi> And ſince that time Chriſt hath not given any Law to <hi>any</hi> of the Higher Powers to <hi>Compel</hi> any of their Subjects to come to his Divine Ser<g ref="char:EOLhyphen"/>vice, by Inflicting the Penalties of Impriſonment, and Forfeitures of great or ſmall Sums of Money for their Neglect.</p>
+                     <p>Secondly, I do Humbly conceive that the <hi>Compelling</hi> which Chriſt inten<g ref="char:EOLhyphen"/>ded, is to be underſtood Miniſterially, <hi>Viz.</hi> That his Goſpel-Miniſters ſhould take great Pains in the Miniſtry of the Word, ſo as to <hi>Inform</hi> Perſons <hi>Judg<g ref="char:EOLhyphen"/>ments, Convinces</hi> their <hi>Conſciences,</hi> and to <hi>Convert</hi> their <hi>Souls,</hi> that ſo they may from a Principle of Love to Chriſt and his Worſhip, Conform them<g ref="char:EOLhyphen"/>ſelves thereunto. And if after all ſuch Spiritual Means, Perſons are not brought to Conform to the Doctrine and Ordinances of Chriſt, they muſt be left to thoſe Puniſhments that Chriſt will inflict upon them for their Diſ<g ref="char:EOLhyphen"/>obedience, 2 Theſ. 1.8, 9. <hi>Taking Vengeance on them that know not God, and that Obey not the Goſpel of our Lord Jeſus Christ, who ſhall be Puniſhed with Ever<g ref="char:EOLhyphen"/>laſting Deſtruction from the Preſence of the Lord, and from the Glory of his Power.</hi>
+                     </p>
+                     <p>But thirdly, I do Humbly conceive that the beſt of Chriſtian Magiſtrates are and ought to be much concerned to promote the Chriſtian Religion, in the Purity of it, according to the beſt of their Knowledge, (briefly thus:)</p>
+                     <p>
+                        <hi>First,</hi> By being <hi>good Patterns themſelves,</hi> in their own Profeſſion and Pra<g ref="char:EOLhyphen"/>ctice of <hi>Godlineſs.</hi>
+                     </p>
+                     <p n="2">2. By Encouraging <hi>a Pious and Painful Miniſtry,</hi> to work upon Ignorant and Obſtinate Perſons, by <hi>Sweet Intreaties</hi> and <hi>Strong Arguments:</hi> But not at all to <hi>Compel</hi> Perſons to <hi>Comply</hi> with Spiritual Matters by <hi>outward Puniſhments:</hi> becauſe that is the ready way to make men <hi>Hypocrites,</hi> and ſuch cannot be <hi>true Members,</hi> though they ſhould Conform to the <hi>Beſt of Churches.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="question">
+               <head>Queſtion. <hi>III.</hi>
+               </head>
+               <p>But, What kind of Subjection is intended unto the Higher Powers by thoſe Words of the Apoſtle <hi>Paul,</hi> Rom. <hi>13.1. Let every Soul be Subject to the Higher Powers?</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Having already ſhewed that Gods Servants are not bound to be ſubject un<g ref="char:EOLhyphen"/>to the Higher Powers in Conforming to their <hi>Establiſhed Religion,</hi> it is now meet that we ſhould know <hi>what kind of Subjection</hi> the Apoſtle doth Require, that ſo we may not come ſhort of our Duty to thoſe that God hath ſet in Authority, which I ſhall endeavour to Reſolve as followeth:</p>
+                  <p>Firſt, By <hi>Subjecting to the Higher Powers,</hi> in the meaning of the Holy A<g ref="char:EOLhyphen"/>poſtle, we are to underſtand <hi>not Reſisting the Higher Powers,</hi> Conſidered as
+<pb n="5" facs="tcp:104180:4" rendition="simple:additions"/>
+                     <hi>the Ordinance of God,</hi> whoſe place and Office is to be <hi>a Terror to Evil Doers, and a Praiſe to them that do well.</hi> And if at any time theſe Higher Powers ſhould <hi>miſs</hi> of the <hi>Right <g ref="char:V">Ʋ</g>ſing</hi> of their <hi>Authority,</hi> and <hi>deal hardly</hi> with the Servants of God, then it is the Duty of Gods Servants to <hi>Exerciſe Patience,</hi> and <hi>not Reſiſt,</hi> by ſeeking to Avenge themſelves; ſee verſe 2, 3. And this is the Doctrine of the ſame Apoſtle in <hi>Rom.</hi> 12.18, 19. <hi>If it be poſſible, live Peaceably with all men; Dearly Beloved, Avenge not your ſelves, but rather give place unto Wrath, for it is written, Vengeance is mine, I will Repay, ſaith the Lord.</hi> And in verſe 21. he ſaith, <hi>Be not overcome of evil, but overcome evil with good;</hi> and then cometh in theſe Words, <hi>Let every Soul be ſubject to the Higher Powers.</hi> And thus to be <hi>truely ſubject,</hi> is, <hi>not to Avenge our ſelves,</hi> but to be Peaceable under Authority, patiently Suffering for the Cauſe of Chriſtianity: and unto this agrees the Counſel of <hi>Paul,</hi> Tit. 3.1, 2. <hi>Put them in Mind to be ſubject to Principalities and Powers, to Obey Magistrates, to be ready to every good Work; To ſpeak Evil of no man, to be no Brawlers</hi> (or Figh<g ref="char:EOLhyphen"/>ters) <hi>but gentle, ſhewing all meekneſs unto all Men.</hi>
+                  </p>
+                  <p>Secondly, To be ſubject to the Higher Powers, in the true meaning of the Apoſtle, is <hi>Paying them their Tributes, and giving them ſuch Reverence as is their due:</hi> ſee verſe 5, 6. <hi>Wherefore ye muſt needs be ſubject, not only for Wrath, but for Conſcience ſake: for this Cauſe Pay you Tribute, for they are Gods Miniſters, Attending continually upon this very thing: Render therefore to all, their dues; Tribute to whom Tribute is due, Custom to whom Cuſtom, Fear to whom Fear, Honour to whom Honour.</hi> And to this agreeth the Words of the Apoſtle <hi>Peter,</hi> 1 Pet. 2.13, 14. <hi>Submit your ſelves to every Ordinance of Man for the Lords ſake, whether it be to the King as Supream, or unto Governours, as ſent by him for the Puniſhment of Evil Doers, and for the Praiſe of them that do well.</hi>
+                  </p>
+                  <p>Now from theſe words of <hi>Peter,</hi> let theſe Particulars be conſidered, con<g ref="char:EOLhyphen"/>cerning Submitting to thoſe in Authority.</p>
+                  <p n="1">1. It cannot fairly be underſtood to be the meaning of the Apoſtle, that the Servants of Chriſt ſhould ſubmit to <hi>every Ordinance of Man,</hi> conſidered as <hi>Decrees</hi> or <hi>Laws</hi> that ſuch who were then in Authority <hi>had made,</hi> or <hi>ſhould make,</hi> concerning <hi>Religious Matters,</hi> ſo as to OBEY and CON<g ref="char:EOLhyphen"/>FORM thereunto; becauſe then Chriſtians muſt have leſt the Wor<g ref="char:EOLhyphen"/>ſhip of God according to the <hi>Goſpel,</hi> and have Conformed to the Worſhip of the <hi>Jews,</hi> when among them, and to the Worſhip of the <hi>Gentiles,</hi> when among the <hi>Gentiles;</hi> But, by <hi>Submitting to every Ordinance of Man,</hi> I do humbly conceive is meant a ſubmitting to the ſeveral <hi>Orders</hi> and <hi>Degrees</hi> of <hi>Power</hi> and <hi>Dignity</hi> among <hi>Men,</hi> conſidered in Authority; <hi>viz.</hi> Firſt, to the <hi>King,</hi> as the ſupream and chief in Authority, and Secondly, To ſuch <hi>Go<g ref="char:EOLhyphen"/>verners</hi> as are <hi>ſent</hi> or <hi>Comiſſionated</hi> by the <hi>King,</hi> to be in places of Authority, for the well managment of Affairs in his Kingdom, in the Right diſtribution of Juſtice; So as to puniſh the <hi>Evil Doers,</hi> and to incourage them that <hi>do Well,</hi> in all matters that ſhould come before them between Man and Man: So that we may Read and Underſtand the Words of the Holy Apoſtle thus: Reſpecting the ſeveral Degrees of Perſons in Authority in <hi>England:</hi> Let the <hi>King</hi> be ſubmitted to, as the Supream Governour; and let his <hi>Privy Councel,</hi> and the <hi>Lord Chancellor,</hi> or <hi>Lord Keeper,</hi> the Lord <hi>Chief Justice,</hi> with the other <hi>Judges,</hi> the <hi>Secretaries of State,</hi> and <hi>Attorney General,</hi> and alſo <hi>Justices of Peace,</hi> be all ſubmitted unto, as unto Governours who are put into Authority by the <hi>King,</hi> who is Supream in the Government; So as each Party may have that Honour, that Reſpect, and Reverence, as is due unto them, ſuitable to that Dignity that the King hath Confered upon them; and this is according to the Exhortation of the Apoſtle <hi>Paul,</hi> Rom. 13.7. <hi>Ren<g ref="char:EOLhyphen"/>der
+<pb n="6" facs="tcp:104180:5"/>therefore unto all their dues,</hi> viz. <hi>Tribute, Cuſtom, Fear, and Honour.</hi>
+                  </p>
+                  <p>And theſe Duties of the Saints muſt be ſuitable to, and Correſpondent with their Chriſtian Love to each other, in maintaining their Goſpel Fellow-ſhip as a Brother-Hood, and the true Fear of God, as it is plainly Declared in the former diſcourſe of the Apoſtle <hi>Peter,</hi> in 1 Pet. 2.17. <hi>Honour all Men, Love the Brother-Hood, Fear God, Honour the King:</hi> In which Words of the A<g ref="char:EOLhyphen"/>poſtle, he taught the Servants of God in that Day, that while they were zealous in and for <hi>the matters of Chriſtianity,</hi> they ſhould alſo make Con<g ref="char:EOLhyphen"/>ſcience of <hi>the matters of Humanity,</hi> in a right behaving of themſelves towards all Men, and eſpecially towards thoſe that were in Authority, that ſo they might <hi>Practice</hi> according to the <hi>Doctrine</hi> of Chriſt, <hi>Luke</hi> 20.25. <hi>Render therefore unto Caeſar the things which be Caeſars, and unto God the things which be Gods.</hi>
+                  </p>
+                  <p>And this kind of Subjection to the Higher Powers, hath been the Pro<g ref="char:EOLhyphen"/>feſſion, Principle, and Practice of the true Servants of God in all Ages, in times paſt; And it is now the Profeſſion, Principle, and Practice of the <hi>PROTESTANT-DISSENTERS</hi> in General, in all parts of this King<g ref="char:EOLhyphen"/>dom; and they have given great Demonſtration of this thing, even when they have been divers times loaded with many Miſeries, in being Proſecuted by <hi>Penal Laws,</hi> only for matters of Religion. And even now at this time, and above a Year paſt, they have been and ſtill are Proſecuted divers ways; <hi>viz.</hi> By the Statute of the 23 of <hi>Elizabeth,</hi> many have been indicted there<g ref="char:EOLhyphen"/>upon for not coming to Common Prayer; The penalty whereof is Twenty Pounds a Month; and many have been Proſecuted by the <hi>Conventicle-Act,</hi> and ſo Suffered the loſs of their Goods, or elſe have been forced to Pay the ſe<g ref="char:EOLhyphen"/>veral ſums of Money levied upon them, becauſe they would not ſuffer a greater damage by the loſs of their Goods.</p>
+                  <p>And many have been Proſecuted as <hi>Rioters,</hi> for being at Proteſtant <hi>Peace<g ref="char:EOLhyphen"/>able Meetings,</hi> and have been Fined at the pleaſure of <hi>ſome in Authority,</hi> and ſo have been forced to Pay ſuch Fines, or elſe go to Priſon.</p>
+                  <p>And many have been Proſecuted by the ECCLESIASTICAL COURTS to Excommunication, and ſo caſt into Goals by the Writ <hi>de Excommunicato Capiendo,</hi> only for not frequenting Common Prayer, and for not receiving the Sacrament in their Pariſh Church. And in this way of Proſecution, <hi>Doctor PINFOLD</hi> of <hi>Doctors Commons</hi> in <hi>London,</hi> hath done more harm to the <hi>Proteſtant-Diſſenters</hi> then any one of the <hi>Eccleſiastical Doctors</hi> in <hi>England,</hi> having forced into the Priſon called <hi>Woodſtreet-Compter</hi> above <hi>Thirty Perſons</hi> in leſs then thirteen Months time; and now at the time of the writting hereof, <hi>Two and twenty Honeſt Cittizens</hi> are in the ſaid <hi>Priſon,</hi> and ſeveral of them have been very ſick, but God in his Mercy hath recovered them; and many becauſe they cannot under-go ſuch hardſhip as to be <hi>ſhut up in Priſon</hi> from their <hi>Families</hi> and <hi>Trades,</hi> have purchaſed their Liberty at <hi>a Dear Rate,</hi> in giving <hi>great Sums of Money</hi> to Doctor <hi>PINFOLD,</hi> to take off the Excommunications; and ſo allow a few Months from hurrying them into Priſon: But if they do not Conform in the time Allotted them, then they are Proſecuted again, ſo as to be ſent to Priſon, or elſe brought to a new <hi>Compoſition.</hi> And beſides all this, many have been ſent to the <hi>New Priſon,</hi> being <hi>Proteſtant-Diſſenters,</hi> taken at <hi>Protestant Meetings; Four and Twenty</hi> have been there at one time ſeveral weeks, but ſome are diſcharged; and ſince that, <hi>ſome more</hi> have been <hi>committed.</hi> And many have been committed to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> one of which, <hi>viz.</hi> Mr. <hi>Francis Bampfield,</hi> a Nonconformiſt Miniſter, dyed in that Priſon on the 16th of <hi>February</hi> laſt; and Mr. <hi>Zacharias Ralph<g ref="char:EOLhyphen"/>ſon,</hi> another Nonconformiſt Miniſter impriſoned there, died the 20th of <hi>March</hi>
+                     <pb n="7" facs="tcp:104180:5" rendition="simple:additions"/>following. Mr. <hi>Bampfield</hi> was taken from his Meeting, where he was doing his Lords Work; and being brought before a Magiſtrate, had the Oath of Alle<g ref="char:EOLhyphen"/>giance tendred to him; for Refuſal whereof, he was firſt committed to Pri<g ref="char:EOLhyphen"/>ſon, and afterwards Premunired. Mr. <hi>Ralphſon</hi> was taken from his own Houſe, and committed to Priſon, upon the <hi>Five-mile Act;</hi> and afterwards fined one hundred Marks for Publiſhing a Book Intituled, <hi>An Apology for Gods Wor<g ref="char:EOLhyphen"/>ſhip and Worſhippers.</hi> Both theſe Miniſters were men of great Learning, Fa<g ref="char:EOLhyphen"/>mous for true Godlineſs, and faithful Labourers in the Lords Vineyard: But now they reſt from their Labours, and their Works follow them.</p>
+                  <p>Now let this be ſoberly Conſidered, that the before-mentioned Proſecu<g ref="char:EOLhyphen"/>tions have been againſt, and have fallen upon his Majeſties <hi>Protestant</hi> and <hi>Peaceable Subjects,</hi> who do make Conſcience, and exerciſe a daily care to give <hi>ſuch a Subjection</hi> to the Higher Powers, as <hi>the Word of God doth Require.</hi>
+                  </p>
+                  <p>And as ſuch Proſecutions for matters of Religion are without any <hi>Precept</hi> from <hi>Christ,</hi> ſo they are contrary to the <hi>Royal Promiſe</hi> of the <hi>King.</hi> For the full evidencing whereof, let the following Diſcourſe be candidly Conſidered.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <head>AN APPENDIX To a late Paper, called <hi>A PLEA for LIBERTY of CONSCIENCE:</hi> WHEREIN The Kings Supream Power in Eccleſiaſtical Matters, is Further Aſſerted.</head>
+            <p>FOraſmuch as I have lately Publiſhed a ſmall Book, Intituled, <hi>A Plea for Liberty of Conſcience, Grounded upon the Holy Word of God, and the Royal Word of the King;</hi> I have ſince met with ſome Objections againſt the ſaid <hi>Plea,</hi> as it is Grounded upon the <hi>Kings Royal Promiſe;</hi> ſome of the Kings liege Subjects affirming, That there is a Final End of the ſaid Promiſe. But I do humbly conceive that my Plea for Liberty of Con<g ref="char:EOLhyphen"/>ſcience is ſubſtantially founded upon thoſe ſeveral Reaſons therein ſoberly urged, and particularly upon his Majeſties <hi>Royal Promiſe,</hi> as one of thoſe Reaſons: For the better clearing whereof, I muſt of neceſſity Recite his Ma<g ref="char:EOLhyphen"/>jeſties Princely Expreſſions when he Repeated his Promiſe a conſiderable time after it was firſt made. Pray ſee his Majeſties Declaration of <hi>December</hi> 26. 1662. (<hi>Page</hi> 7.)</p>
+            <p>
+               <hi>We well Remember the very Words from</hi> Breda, viz. <hi>We do Declare a Liberty to Tender Conſciences, and that no man ſhall be Diſquieted or called in Queſtion for Differences of Opinion in matters of Religion, which do not diſturb the Peace of the Kingdom, and that we ſhall be rea<g ref="char:EOLhyphen"/>dy to conſent to ſuch an Act of Parliament, as upon Mature Delibera<g ref="char:EOLhyphen"/>tion ſhall be offered to us, for the full Granting that Indulgence.</hi>
+            </p>
+            <p>
+               <hi>We well Remember the Confirmations we have made of them ſince, upon ſeveral Occaſions in Parliament, and as all theſe things are ſtill freſh in our Memory, ſo are we ſtill firm in the Reſolution of Perform<g ref="char:EOLhyphen"/>ing them to the full; But, it muſt not be wondred at, (ſince that Par<g ref="char:EOLhyphen"/>liament to which thoſe Promiſes were made, in Relation to an Act, ne<g ref="char:EOLhyphen"/>ver thought fit to offer us any to that purpoſe) that being ſo Zealous
+<pb n="8" facs="tcp:104180:6"/>as we are, (and by the Grace of God ſhall ever be) for the Mainte<g ref="char:EOLhyphen"/>nance or the True Proteſtant Religion, finding it to be ſhaken (not to ſay Overthrown) as we did, we ſhould give its Eſtabliſhment the Pre<g ref="char:EOLhyphen"/>cedency before Matters of Indulgence to Diſſenters from it: But that being once done, (as we hope it is ſufficiently by the Bill of Vniformi<g ref="char:EOLhyphen"/>ty) we are glad to lay hold on this Occaſion, to Renew unto all our Loving Subjects Concerned in thoſe promiſes of Indulgence, by a True Tenderneſs of Conſcience, this Aſſurance,</hi> (Page 8.) <hi>That as in the firſt place, We have heen Zealous to ſettle the Vniformity of the Church of</hi> England, <hi>in Diſcipline, Ceremony and Government, and ſhall ever conſtantly maintain it; ſo as for what Concerns the penalties up<g ref="char:EOLhyphen"/>on thoſe who (Living Peaceably) do not Conform thereunto, through Scruple, and Tenderneſs of Miſguided Conſcience, but Modeſtly and without Scandal, perform their Devotions in their own Way, We ſhall make it our ſpecial Care, ſo far forth as in Vs lies, without Inva<g ref="char:EOLhyphen"/>ding the Freedom of Parliament, to incline their Wiſdom at the next Approaching Seſſions, to concur with us in the making ſome ſuch Act for that purpoſe, as to Enable us to Exerciſe with a more Vniverſal Satisfaction,</hi> THAT POWER OF DISPENSING, <hi>which we conceive to be</hi> INHERENT IN US; <hi>nor can we doubt of their chearful Co-operating with us, in a thing wherein we do conceive our ſelves ſo far Engaged both in Honour, and in what we owe to the peace of our Dominions,</hi> (Page 9.) <hi>Which we profeſs we can never think ſecure, whilſt there ſhall be a Colour left to the Malicious and Diſaffected, to in<g ref="char:EOLhyphen"/>flame the minds of ſo many Multitudes upon the ſcore of Conſcience, with deſpair of ever obtaining any Effect of our promiſes for their Eaſe.</hi>
+            </p>
+            <div type="objections">
+               <head>Objections.</head>
+               <p>
+                  <hi>Objection</hi> I. But ſome will be ready to Object and ſav, That ſince this his Majeſties Declaration, the <hi>Houſe of Commons</hi> did Vote and Reſolve in <hi>Feb.</hi> 1663.</p>
+               <p>Firſt, <hi>That the thanks of this Houſe be returned to his Majesty, for his Reſolution to maintain the Act of <g ref="char:V">Ʋ</g>niformity.</hi>
+               </p>
+               <p>Secondly, <hi>That it be preſented to the Kings Majeſty as the humble advice of this Houſe, that no Indulgence be granted to the Diſſenters from the Act of <g ref="char:V">Ʋ</g>niformity.</hi>
+               </p>
+               <p>
+                  <hi>Objection</hi> II. And ſince this Advice, an Act of Parliament hath been made for the puniſhing of ſuch as are Diſſenters from the Church of <hi>England.</hi> See the Act againſt <hi>Conventicles, April,</hi> 1670.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Let not theſe things be thought to be Unanſwerable Objections, and ſo Con<g ref="char:EOLhyphen"/>clude that there is a Total and Final End of that GOOD contained in the <hi>Kings</hi> Promiſe, (viz. <hi>Liberty of Conſcience.</hi>) And therefore let theſe few following things be ſoberly Conſidered, as an Anſwer to the former Objections.</p>
+                  <p>
+                     <hi>Firſt,</hi> Conſider who did beſt, the KING in making this Promiſe, of ſo great a Good, to ſo great a Body of his Subjects, as the <hi>Proteſtant-Diſſenters</hi> are, and preſſing the compleat Performance of it; or the <hi>Houſe of Commons,</hi> in adviſing the King to the contrary; Eſpecially Conſidering the <hi>great ſtrength of Argument</hi> in the Kings Words, in the before-mentioned <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> (Page 9.) <hi>Wee do conceive our ſelves ſo far ingaged, Both in Honour and in what we owe to the Peace of our Dominions, which we profeſs we can never think ſecure, whilſt there ſhall be a Colour left to the Malicious and Diſaffected, to inflame the minds of ſo many multi<g ref="char:EOLhyphen"/>tudes upon the ſcore of Conſcience, with deſpair of ever obtaining any Effect of our promiſes for their Eaſe.</hi>
+                  </p>
+                  <pb n="9" facs="tcp:104180:6" rendition="simple:additions"/>
+                  <p>
+                     <hi>Secondly,</hi> Conſider that the Votes and Advice of <hi>a Houſe of Commons,</hi> cannot <hi>wholly make Null and Void</hi> the <hi>Promiſe of a KING,</hi> if the <hi>matter</hi> of the Pro<g ref="char:EOLhyphen"/>miſe be Good and Lawful in it ſelf; And eſpecially if the King hath <hi>a legal Power</hi> in himſelf to perform <hi>ſuch Promiſe,</hi> or <hi>any Part thereof.</hi>
+                  </p>
+                  <p>
+                     <hi>Thirdly,</hi> Conſider that though <hi>that Houſe of Commons</hi> did Vote and Adviſe not to grant the Promiſed Indulgence by Act of Parliament, yet they did not (neither <hi>could they</hi>) thereby, viz. <hi>By their Votes, take away the Power of the King in Eccleſiasticall matters,</hi> ſo as he ſhould not <hi>Suſpend</hi> or <hi>Abate</hi> the ſevere Proſecutions of the Laws in matters of Religion, which is the firſt part of his Majeſties Royal Promiſe, viz. <hi>That no Man ſhall be diſquieted or called in Question for Differences of Opinion, in matters of Religion, which do not diſturb the Peace of the Kingdom.</hi>
+                  </p>
+                  <p>
+                     <hi>Fourthly,</hi> Conſider that though the <hi>Houſe of Commons,</hi> at that time did not think meet to Eſtabliſh Liberty of Conſcience by <hi>a Law:</hi> Yet they left the King in the Injoyment of his Supream Power, to <hi>Diſpenſe</hi> with the <hi>Penal<g ref="char:EOLhyphen"/>ties</hi> of ſuch Laws as were <hi>already made</hi> againſt Diſſenters from the Church of <hi>England.</hi>
+                  </p>
+                  <p>
+                     <hi>Fifthly,</hi> Conſider that his Majeſty hath Declared in the fore-mentioned Declaration, that he did conceive, that he had <hi>an Inherent Power in him<g ref="char:EOLhyphen"/>ſelf,</hi> to <hi>diſpence</hi> with the <hi>Penalties</hi> attending his Subjects, <hi>who living Peace<g ref="char:EOLhyphen"/>ably could not Conform, But did Modestly and without Scandal perform their De<g ref="char:EOLhyphen"/>votions in their own way.</hi> (See Page 8.)</p>
+                  <p>
+                     <hi>Sixthly,</hi> Conſider that though the Parliament long after this, did make an Act againſt <hi>Seditious Conventicles</hi> in the Year 1670. Yet they were very careful to <hi>Reſerve unto the King his Supream Power in Eccleſiaſtical Affairs:</hi> (See Page 24 of the ſaid Act, thus Worded:) <hi>provided alſo, That neither this Act, nor any thing therein contained, ſhall Extend to Invalidate or A<g ref="char:EOLhyphen"/>void his Majeſties Supremacy in Eccleſiaſtical Affairs; but that his Ma<g ref="char:EOLhyphen"/>jeſty and his Heirs and Succeſſors may from time to time, and at all times hereafter, Exerciſe and Enjoy all powers and Authorities in all Eccleſiaſti<g ref="char:EOLhyphen"/>cal Affairs, as fully and as amply as himſelf or any of his predeceſſors have or might have done the ſame, any thing in this Act notwithſtanding.</hi>
+                  </p>
+                  <p>
+                     <hi>Seventhly,</hi> Conſider that after this Act had been <hi>Severely Proſecuted</hi> againſt the <hi>Proteſtant-Diſſenters,</hi> in many parts of this Kingdom, to the very great damage of many Proteſtant Families, his Majeſty was pleaſed to take this matter into his Princely Conſideration, and did think himſelf Obliged to make uſe of his Supream Power in Eccleſiaſtical Matters, for Eaſe and Relief of his diſtreſſed Subjects.</p>
+                  <p>See his Majeſties Declaration to all his loving Subjects, publiſhed by the Advice of his Privy-Counſel, <hi>March</hi> 15. 1671/2. Which runs thus: (<hi>Page</hi> 3.) <hi>Our Care and Endevours for the preſervation of the Rights and Intereſts of the Church have been ſufficiently manifeſt to the World, by the whole courſe of our Government, ſince our Happy Reſtauration, and by the many &amp; frequent ways of coercion that we have uſed for reducing all Erring or Diſſenting perſons, and for compoſing the unhappy differences in mat<g ref="char:EOLhyphen"/>ters of Religion, which we found among our Subjects upon our Return:</hi> (Page 4.) <hi>But it being evident by the ſad Experience of twelve Years, that there is very little Fruit of all thoſe Forceable corſes, we think our ſelf Obliged to make uſe of that Supream Power in Eccleſiaſtical Matters, which is not only</hi> INHERNET IN US, <hi>but hath been <hi>DECLARED</hi> and <hi>RECOGNIZED</hi> to be ſo by <hi>SEVERAL STAT<g ref="char:V">Ʋ</g>TES</hi> and <hi>ACTS OF PAR<g ref="char:EOLhyphen"/>LIAMENT;</hi> and therefore we do now accordingly iſſue this our Declara<g ref="char:EOLhyphen"/>tion, as well for the quieting the minds of our good Subjects in thoſe points,</hi> for <hi>the inviting Strangers in this conjuncture, to come and Live
+<pb n="10" facs="tcp:104180:7" rendition="simple:additions"/>under us, and</hi> for <hi>the better Encouragement of all, to a chearful Follow<g ref="char:EOLhyphen"/>ing</hi> of <hi>their Trade and callings,</hi> from <hi>whence we hope by the Bleſſing</hi> of <hi>God, to have many Good and Happy Advantages to our Government.</hi> (Page 5.) <hi>We do declare our will and pleaſure to be, that the Execution</hi> of <hi>all, and all manner</hi> of <hi>Penal-Laws in matters</hi> Eccleſiaſtical, <hi>againſt whatſoever Sort</hi> of <hi>Nonconformiſt or Recuſants,</hi> BE IMMEDIATLY SUSPENDED, <hi>and they are Suſpended. And all Iudges, Iudges</hi> of <hi>Aſſiſe, and Gaol delivery; Sheriffs, Iuſtices</hi> of <hi>the Peace, Mayors, Bayliffs and other Officers whatſoever, whether</hi> Eccleſiaſtical <hi>or</hi> Civil, <hi>are to take notice of it, and pay due Obedience thereunto.</hi>
+                  </p>
+                  <p>
+                     <hi>Objection</hi> III. But ſome will yet further Object and ſay, <hi>That the Houſe of Commons at the ſitting of the Parliament after this Declaration, did diſapprove of this Indulgence as it was Granted by the King.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer</hi> I. What is before replyed to the firſt Objection, concerning the Reſolves and Advice of the Houſe of Commons in 1663. may very well ſerve as an Anſwer to this Objection, <hi>viz.</hi> That the Votes of the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> doth not take away, nor deprive his Majeſty of his Supream Power in Eccleſiaſtical Affairs to <hi>DISPENCE WITH THE PENALTIES,</hi> and <hi>S<g ref="char:V">Ʋ</g>S<g ref="char:EOLhyphen"/>PEND THE SEVERE PROSEC<g ref="char:V">Ʋ</g>TION OF THE LAWS</hi> in <hi>matters of Religion,</hi> for eaſe of his <hi>Potestant</hi> and <hi>Peaceable</hi> Subjects.</p>
+                  <p>
+                     <hi>Anſwer</hi> II. And beſides this, if there be any Argument from the Votes and Reſolves of the Houſe of Commons in 63. <hi>When they</hi> OPPOSED <hi>what the King Preſſed for,</hi> as the Performance of ſo great and ſo good a Promiſe, it is humbly conceived, There is <hi>much more Argument</hi> from what was Voted and Reſolved by that <hi>Houſe of Commons,</hi> in <hi>November</hi> 1680. In theſe words: <hi>Sabbati Sexto die</hi> Nov. 1680. <hi>Reſolved</hi> Nemine Contradicente, <hi>That it is the Opinion of this Houſe, that the Acts of Parliament made in the Reign of Queen Elizabeth, and King James againſt Popiſh Recuſants, ought not to be Extended againſt Proteſtant Diſſenters.</hi> Foraſmuch as this <hi>latter</hi> Reſolve of the <hi>Houſe of Commons,</hi> is in ſome ſence an Expoſition of former <hi>Penal-Statutes,</hi> as not being <hi>deſigned</hi> againſt <hi>Proteſtànts;</hi> But more eſpecially the Argument is, Becauſe this Reſolve of the <hi>Houſe of Commons</hi> in Nov. 1680. <hi>doth Agree</hi> with his Majeſties Royal Pro<g ref="char:EOLhyphen"/>miſe, that <hi>his Protestant and Peaceable Subjects ſhould not be diſquieted for Mat<g ref="char:EOLhyphen"/>ters of Religion.</hi>
+                  </p>
+                  <p>Now from theſe things, ſoberly Conſidered, It may be ſafely concluded, That <hi>His Majeſty hath Sufficient Power to perform his Royal Promiſe:</hi> And if the Poor <hi>Proteſtant-Diſſenters</hi> muſt be ſpoiled by ſevere Proſecutions, <hi>It is not for want of promiſe, nor for want of power on the Kings part to help them;</hi> Foraſmuch as the King hath Aſſerted, That he hath a Supream Power in Eccleſiaſtical Affairs, not only <hi>inherent in himſelf,</hi> but <hi>Recogni<g ref="char:EOLhyphen"/>zed to be ſo by divers Statutes and Acts of Parliament.</hi>
+                  </p>
+                  <p>And therefore it is humbly and heartily deſired, that his Majeſty would be Graciouſly Pleaſed to Joyn his <hi>Royal Power</hi> with his <hi>Royal Promiſe,</hi> that ſo his Poor Proteſtant Subjects may be eaſed of thoſe many Miſeries that they now groan under. And as this would be joyfully and thankfully accepted of by the Proſecuted Proteſtants, ſo may His Majeſty hope by the Bleſſing of God <hi>to have many good and happy Advantages to his Government thereby.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="copyright_notice">
+            <p>Entred According to Order.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
